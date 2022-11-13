@@ -1,2 +1,2 @@
 # image-captioning
-This repository has two image captioning implementation; using RNN (LSTM) and using a Transformer block. 
+This repository has two image captioning implementation; using RNN (LSTM) and also using a Transformer block. 
